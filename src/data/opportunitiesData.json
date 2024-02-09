@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Real Estate Project",
+        "company": "Horizon Real Estate Holdings",
+        "amount": "$500,000",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIWQJJ39KIe8QhHFKxrfq7PTpVLFhPJ1Nx0w&usqp=CAU",
+        "description": "The real estate project entails the development of a premium residential complex in a prime location. Designed to meet the growing demand for upscale housing, the project offers modern amenities, sustainable features, and luxurious living spaces. With a focus on quality craftsmanship and architectural excellence, the development aims to attract discerning buyers and investors seeking long-term returns in the lucrative real estate market.",
+        "MinimumInvestment": "$100,000",
+        "Duration": "3 years",
+        "ResearchMilestones": "6% annually, paid quarterly.",
+        "ExitStrategy": "Investors can exit at project completion or end of term.",
+        "ContactInfo": " Reach out to the real estate development company or project developer to inquire about investment opportunities.",
+        "InvestmentPlatforms": "Consider crowdfunding platforms that offer investment opportunities in real estate projects."
+    },
+    {
+        "title": "Biotech Research Initiative",
+        "company": "BioGen Innovations",
+        "amount": "$150,000",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXnYHomOmtjmQwsFrlUtD5PlSAQVIG52NoQ&usqp=CAU",
+        "description": "The biotech research initiative focuses on advancing scientific discoveries and breakthroughs in the field of biotechnology. Through cutting-edge research and development efforts, the initiative aims to create innovative therapies, diagnostic tools, and medical solutions that address unmet healthcare needs and improve patient outcomes. With a multidisciplinary approach and a network of leading scientists and experts, the initiative seeks funding to accelerate research projects, bring new treatments to market, and make a meaningful impact on global health and wellness.",
+        "MinimumInvestment": "$75,000",
+        "Duration": "8 years",
+        "ResearchMilestones": "Investments allocated to specific projects.",
+        "ExitStrategy": "Options available upon project completion.",
+        "ContactInfo": " Reach out to the research institution or biotech incubator managing the initiative for investment inquiries.",
+        "InvestmentPlatforms": "Explore investment opportunities arising from biotech research programs at universities and research institutions."
+    },
+    {
+        "title": "Renewable Energy Fund",
+        "company": "Green Energy Solutions Ltd.",
+        "amount": "$250,000",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4guWAgGtt3XYLGgs_F2JmRkSd6RjYf7jOGQ&usqp=CAU",
+        "description": "The renewable energy fund is dedicated to financing projects in the clean energy sector, including solar, wind, and hydroelectric power. By investing in renewable energy infrastructure and technologies, the fund aims to promote sustainability, reduce carbon emissions, and address the global challenge of climate change. With a diversified portfolio of projects and a commitment to environmental stewardship, the fund offers investors an opportunity to support the transition to a greener and more sustainable energy future.",
+        "MinimumInvestment": "$25,000",
+        "Duration": "7 years",
+        "ResearchMilestones": "Aiming for 8-10% annually.",
+        "ExitStrategy": " Available at the end of the investment term.",
+        "ContactInfo": "Contact the renewable energy fund management team to learn about investment options.",
+        "InvestmentPlatforms": "Consider impact investment platforms specializing in sustainable energy initiatives."
+    }
+]
